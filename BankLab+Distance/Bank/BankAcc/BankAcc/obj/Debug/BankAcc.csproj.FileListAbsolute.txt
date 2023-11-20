@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\BankLab+Distance\Bank\BankAcc\BankAcc\bin\Debug\BankAcc.exe.config
+C:\Users\Lenovo\Desktop\Labs\BankLab+Distance\Bank\BankAcc\BankAcc\bin\Debug\BankAcc.exe
+C:\Users\Lenovo\Desktop\Labs\BankLab+Distance\Bank\BankAcc\BankAcc\bin\Debug\BankAcc.pdb
+C:\Users\Lenovo\Desktop\Labs\BankLab+Distance\Bank\BankAcc\BankAcc\obj\Debug\BankAcc.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labs\BankLab+Distance\Bank\BankAcc\BankAcc\obj\Debug\BankAcc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\BankLab+Distance\Bank\BankAcc\BankAcc\obj\Debug\BankAcc.exe
+C:\Users\Lenovo\Desktop\Labs\BankLab+Distance\Bank\BankAcc\BankAcc\obj\Debug\BankAcc.pdb
